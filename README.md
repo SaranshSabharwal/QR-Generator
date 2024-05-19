@@ -22,4 +22,3 @@ Customization options (size, color, error correction).
 Download feature.
 Support for URLs, emails, etc.
 
-This project was inspired and created by following GreatStack youtube tutorial 
